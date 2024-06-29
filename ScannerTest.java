@@ -11,7 +11,7 @@ public class ScannerTest {
             String name = input.next();
             System.out.print("Please enter your age : ");
             int age = input.nextInt();
-            System.out.printf("Hello Mr./Mrs. %s, Your age is %d",name,age);
+            System.out.printf("Hello, Mr. %s, Your age is %d",name,age);
     }
     
 }
